@@ -1,0 +1,3 @@
+﻿  Info450A01.cpp
+c:\users\nadir\documents\visual studio 2015\projects\info450a01\info450a01\info450a01.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Info450A01.vcxproj -> C:\Users\Nadir\Documents\Visual Studio 2015\Projects\Info450A01\Debug\Info450A01.exe
